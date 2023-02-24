@@ -1,5 +1,5 @@
 {
-  "name": "grafana-mongodb",
+  "name": "loftorbital-grafana-mongodb",
   "private": true,
   "version": "0.8.1",
   "description": "",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JamesOsgood/mongodb-grafana.git"
+    "url": "git+https://github.com/loft-orbital/mongodb-grafana-datasource.git"
   },
   "author": "James Osgood",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JamesOsgood/mongodb-grafana/issues"
+    "url": "https://github.com/loft-orbital/mongodb-grafana-datasource"
   },
   "engines": {
     "node": "6.10.0"
@@ -54,5 +54,5 @@
     "mongodb": "^4.12.1",
     "statman-stopwatch": "^2.7.0"
   },
-  "homepage": "https://github.com/JamesOsgood/mongodb-grafana#readme"
+  "homepage": "https://github.com/loft-orbital/mongodb-grafana-datasource#readme"
 }
